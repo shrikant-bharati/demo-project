@@ -1,3 +1,3 @@
 # demo-project
 This is my first repository.
-Author- Shrikant Bharati
+<br>Author- Shrikant Bharati
